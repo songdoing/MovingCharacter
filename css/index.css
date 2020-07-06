@@ -29,26 +29,26 @@
     animation : moving 3s infinite alternate;
 }
 
-.ilbuni:nth-of-type(1) {
+.ilbuni.a {
     left: 5%;
     bottom: 85%;
     background-image: url('../images/ilbuni_0.png');
     animation-duration: 2s;
 }
-.ilbuni:nth-of-type(2) {
+.ilbuni.b {
     left: 10%;
     bottom: 55%;
     background-image: url('../images/ilbuni_1.png');
     animation-duration: 3s;
 }
-.ilbuni:nth-of-type(3) {
+.ilbuni.c {
     left: 7%;
     bottom: 65%;
     background-image: url('../images/ilbuni_2.png');
     animation-duration: 4s;
 }
 
-.ilbuni:nth-of-type(4) {
+.ilbuni.d {
     left: 5%;
     bottom: 75%;
     background-image: url('../images/ilbuni_3.png');
